@@ -1,4 +1,3 @@
-```html
 <ul>
 <li>
   Создай виртуальное окружение <code>backend</code>
