@@ -1,10 +1,16 @@
+```html
 <ul>
-<li>— Создай виртуальное окружение
-```
-python3 -m venv venv
+<li>
+  Создай виртуальное окружение <code>backend</code>
+  <pre><code>python3 -m venv venv
 source venv/bin/activate  # для Mac/Linux
 venv\Scripts\activate     # для Windows
-```</li>
-<li>— Установи зависимости `pip install -r requirements.txt`</li>
-<li>— Запуск проекта `uvicorn main:app --reload`</li>
+</code></pre>
+</li>
+<li>
+  Установи зависимости <code>pip install -r requirements.txt</code>
+</li>
+<li>
+  Запуск проекта <code>uvicorn main:app --reload</code>
+</li>
 </ul>
