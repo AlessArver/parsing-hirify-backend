@@ -1,6 +1,6 @@
 <ul>
 <li>
-  Создай виртуальное окружение <code>backend</code>
+  Создай виртуальное окружение  
   <pre><code>python3 -m venv venv
 source venv/bin/activate  # для Mac/Linux
 venv\Scripts\activate     # для Windows
